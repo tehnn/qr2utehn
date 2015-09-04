@@ -19,5 +19,5 @@ app.run(function($ionicPlatform) {
 });
 
 app.controller('AppCtrl',function($scope){
-  $scope.qrString='3650100810887';
+  $scope.qrString='3650111910887';
 });
